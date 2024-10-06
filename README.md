@@ -1,1 +1,1 @@
-## basic example of redis cache implementation on node server
+## Basic example of redis cache implementation on node server with the github API
